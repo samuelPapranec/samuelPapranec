@@ -1,7 +1,6 @@
  greetings, <br>
- you found my profile,
- <br>so welcome
-  talk is cheap, check my code || show me your code
+ you found my profile, so welcome <br>
+  talk is cheap, check my code || show me your code <br>
  [ always crafting open-source ]
 
 
