@@ -1,4 +1,5 @@
- talk is cheap, show me your code
+ greetings, you found my profile so welcome
+  talk is cheap, check my code
  [ always crafting open-source ]
 
 
