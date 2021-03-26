@@ -1,20 +1,11 @@
-### talk is cheap, show me your code
+ talk is cheap, show me your code
+ [ always crafting open-source ]
 
-### blockchain deobfuscator & contributor
+blockchain deobfuscator & contributor
                 
 ### | english | slovensky | česky | русски |
                 
-
-              
-###   🏀 basketball player 🏀
-
-###  📉forex & smart contracts📉
-
-### 💻  craftsman of clean code 💻
-
     
-[ always crafting open-source ]
-  
      
 
     •Bullish on education.
