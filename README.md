@@ -7,10 +7,10 @@ check my code || show me your code <br>
 
 blockchain deobfuscator & contributor                      
 
-    •Bullish on education.
+    •Bullish on Education.
     •Freedom Maximalist.
     •fiat Minimalist.
-    •No serf by any means
+    •No serf by Any Means.
 
   In Bitcoin since 
               (right at time)
