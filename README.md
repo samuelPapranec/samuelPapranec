@@ -1,12 +1,9 @@
  talk is cheap, show me your code
  [ always crafting open-source ]
 
-blockchain deobfuscator & contributor
-                
-### | english | slovensky | česky | русски |
-                
-    
-     
+
+
+blockchain deobfuscator & contributor                      
 
     •Bullish on education.
     •Freedom Maximalist.
