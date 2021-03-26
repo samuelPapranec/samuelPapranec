@@ -1,16 +1,25 @@
-### Hi there 👋
+### talk is cheap, show me your code
 
-<!--
-**samuelPapranec/samuelPapranec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+𝗯𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻 deobfuscator & contributor
+                
+| english | slovensky | česky | русски |
+                
 
-Here are some ideas to get you started:
+              🏀
+        basketball player
+  📉forex & smart contracts📉
+💻  craftsman of clean code 💻
+    
+[ always crafting open-source ]
+  
+     
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    •Bullish on education.
+    •Freedom Maximalist.
+    •fiat Minimalist.
+    •No serf by any means
+
+  In Bitcoin since 
+              (right at time)
+
+     also on Twitter/StackOverflow
