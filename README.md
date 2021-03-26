@@ -5,8 +5,8 @@
 | english | slovensky | česky | русски |
                 
 
-              🏀
-        basketball player
+              
+   🏀 basketball player 🏀
   📉forex & smart contracts📉
 💻  craftsman of clean code 💻
     
@@ -22,4 +22,4 @@
   In Bitcoin since 
               (right at time)
 
-     also on Twitter/StackOverflow
+  also on Twitter/StackOverflow
