@@ -4,7 +4,7 @@ check my code || show me code <br>
  [ always crafting open-source ]
 
 
-blockchain deobfuscator & contributor                      
+** blockchain deobfuscator & contributor                      
     •Bullish on Education.
     •Freedom Maximalist.
     •fiat Minimalist.
