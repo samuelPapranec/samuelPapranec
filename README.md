@@ -6,6 +6,6 @@
     <br>
  english | slovensky | 中文 | česky | русски 
 
-[Improved MQL5 calendar](https://samuelpapranec.github.io)  
-[My Favourite Books](https://samuelpapranec.github.io/compact-gallery#fluid-gallery)
-[Real-Time Price of Assets from Tradingview's sources](https://samuelpapranec.github.io/floor)
+[Improved MQL5 calendar](https://samuelpapranec.github.io)    
+[My Favourite Books](https://samuelpapranec.github.io/compact-gallery#fluid-gallery)  
+[Real-Time Price of Major Assets -all sources](https://samuelpapranec.github.io/floor)  
