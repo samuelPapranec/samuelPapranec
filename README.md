@@ -5,3 +5,6 @@
   - 𝕱𝖗𝖊𝖊𝖉𝖔𝖒 𝕸𝖆𝖝𝖎𝖒𝖆𝖑𝖎𝖘𝖒   <br>
     <br>
  english | slovensky | 中文 | česky | русски 
+
+[Improved MQL5 calendar](samuelpapranec.github.io)
+[My Favourite Books](samuelpapranec.github.io/compact)
