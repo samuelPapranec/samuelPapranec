@@ -6,5 +6,5 @@
     <br>
  english | slovensky | 中文 | česky | русски 
 
-[Improved MQL5 calendar](samuelpapranec.github.io)
+[Improved MQL5 calendar](https://samuelpapranec.github.io)  
 [My Favourite Books](samuelpapranec.github.io/compact)
