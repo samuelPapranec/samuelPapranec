@@ -10,3 +10,5 @@
 [My Favourite Books](https://samuelpapranec.github.io/compact-gallery#fluid-gallery)  
 [Real-Time Price of Major Assets -all sources](https://samuelpapranec.github.io/floor)  
 [Important episodes to listen to on the go](https://samuelpapranec.github.io/audio)
+
+[Citadela.eth] Geopolitics Investments Technologies Slovakia
