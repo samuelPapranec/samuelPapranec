@@ -9,7 +9,7 @@
 [Improved MQL5 calendar](https://samuelpapranec.github.io)    
 [My Favourite Books](https://samuelpapranec.github.io/compact-gallery#fluid-gallery) are updated every week  
 [Real-Time Price of Major Assets -all sources](https://samuelpapranec.github.io/floor)  
-[Important episodes to listen to on the go](https://samuelpapranec.github.io/audio) are updated every day
+[Important episodes to listen to on the go](https://samuelpapranec.github.io/audio) are updated every day <br>
 [My Writings](https://medium.com/samuelPapranec) are updated every day
 
 [Citadela.eth]() Decentralized Workspace Slovakia
