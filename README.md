@@ -6,7 +6,7 @@ read in other languages: [english]() | [slovensky]() | [中文]() | [česky]() |
   - 𝕱𝖗𝖊𝖊𝖉𝖔𝖒 𝕸𝖆𝖝𝖎𝖒𝖆𝖑𝖎𝖘𝖒   <br>
     <br>
  
-
+content:
 [Slightly Improved MQL5 calendar](https://samuelpapranec.github.io)    
 [My Favourite Books](https://samuelpapranec.github.io/compact-gallery#fluid-gallery) are updated every week  
 [Real-Time Quotes of Tracked Major Assets and Indexes](https://samuelpapranec.github.io/floor) from FRED, NYMEX, CME, CBOT, FOREXCOM, OANDA, FXOPEN, BINANCE and KRAKEN 
