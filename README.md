@@ -9,7 +9,7 @@ read in other languages: [english]() | [slovensky]() | [中文]() | [česky]() |
 
 [Slightly Improved MQL5 calendar](https://samuelpapranec.github.io)    
 [My Favourite Books](https://samuelpapranec.github.io/compact-gallery#fluid-gallery) are updated every week  
-[Real-Time Quotes of Tracked Major Assets and Indexes](https://samuelpapranec.github.io/floor) from FRED, NYMEX, CME, CBOT, FOREXCOM, EUREX, OANDA, FXOPEN, BINANCE and KRAKEN 
+[Real-Time Quotes of Tracked Major Assets and Indexes](https://samuelpapranec.github.io/floor) from FRED, NYMEX, CME, CBOT, FOREXCOM, OANDA, FXOPEN, BINANCE and KRAKEN 
 [Important episodes to listen to on the go](https://samuelpapranec.github.io/audio) are updated every day <br>
 [My Writings](https://medium.com/samuelPapranec) are updated every day
 [Citadela.eth]() Decentralized Workspace Slovakia
