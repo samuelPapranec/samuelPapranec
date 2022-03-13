@@ -12,6 +12,8 @@ content:<br>
 [Real-Time Quotes of Tracked Major Assets and Indexes](https://samuelpapranec.github.io/floor) from FRED, NYMEX, CME, CBOT, FOREXCOM, OANDA, FXOPEN, BINANCE and KRAKEN 
 [Important episodes to listen to on the go](https://samuelpapranec.github.io/audio) are updated every day <br>
 [I write on medium platform](https://medium.com/samuelPapranec), an article per week <br>
+[Citadela Asset Foundation]() transparent executions<br>
+[My code in progress]() <br>
 [Citadela.eth]() Decentralized Workspace Slovakia
 
 I´m up for the journey.
