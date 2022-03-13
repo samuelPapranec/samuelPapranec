@@ -4,11 +4,12 @@
   - 𝕭𝖚𝖑𝖑𝖎𝖘𝖍𝖓𝖊𝖘𝖘 𝖔𝖓 𝕰𝖉𝖚𝖈𝖆𝖙𝖎𝖔𝖓  <br>
   - 𝕱𝖗𝖊𝖊𝖉𝖔𝖒 𝕸𝖆𝖝𝖎𝖒𝖆𝖑𝖎𝖘𝖒   <br>
     <br>
- english | slovensky | 中文 | česky | русски 
+ read in other languages: english | slovensky | 中文 | česky | русски 
 
 [Improved MQL5 calendar](https://samuelpapranec.github.io)    
-[My Favourite Books](https://samuelpapranec.github.io/compact-gallery#fluid-gallery)  
+[My Favourite Books](https://samuelpapranec.github.io/compact-gallery#fluid-gallery) are updated every week  
 [Real-Time Price of Major Assets -all sources](https://samuelpapranec.github.io/floor)  
-[Important episodes to listen to on the go](https://samuelpapranec.github.io/audio)
+[Important episodes to listen to on the go](https://samuelpapranec.github.io/audio) are updated every day
+[My Writings](https://medium.com/samuelPapranec) are updated every day
 
-[Citadela.eth]() Geopolitics+Investments+Technologies Decentralized Workspace Slovakia
+[Citadela.eth]() Decentralized Workspace Slovakia
