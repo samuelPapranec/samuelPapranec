@@ -8,7 +8,7 @@ read in other languages: [english]() | [slovensky]() | [中文]() | [česky]() |
  
 content:<br>
 [Slightly Improved MQL5 calendar](https://samuelpapranec.github.io)    
-[My Favourite Books](https://samuelpapranec.github.io/compact-gallery#fluid-gallery) are updated every week  
+[Part of My Library](https://samuelpapranec.github.io/compact-gallery#fluid-gallery) are updated every week(once per week). Can´t afford to pay an author for a book? Just click and thank libgen. 
 [Real-Time Quotes of Tracked Major Assets and Indexes](https://samuelpapranec.github.io/floor) from FRED, NYMEX, CME, CBOT, FOREXCOM, OANDA, FXOPEN, BINANCE and KRAKEN 
 [Important episodes to listen to on the go](https://samuelpapranec.github.io/audio) are updated every day <br>
 [I write on medium platform](https://medium.com/samuelPapranec), an article per week <br>
