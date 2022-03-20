@@ -5,7 +5,7 @@ read in other languages: [english]() | [slovensky]() | [中文]() | [česky]() |
   - 𝕭𝖚𝖑𝖑𝖎𝖘𝖍𝖓𝖊𝖘𝖘 𝖔𝖓 𝕰𝖉𝖚𝖈𝖆𝖙𝖎𝖔𝖓  <br>
   - 𝕱𝖗𝖊𝖊𝖉𝖔𝖒 𝕸𝖆𝖝𝖎𝖒𝖆𝖑𝖎𝖘𝖒   <br>
     <br>
- 
+ ![10. kalendárny týždeň](https://scontent.fbts10-1.fna.fbcdn.net/v/t1.15752-9/276052113_669482974367356_6546486848981085969_n.png?stp=dst-png_p843x403&_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_ohc=3nzupd4YbFEAX-KgXiQ&_nc_ht=scontent.fbts10-1.fna&oh=03_AVITg-CqbyFOcXaFZ00zAD-ldA6HmqL00fAYgLCaKOwFnw&oe=625CC6FE)
 content for anyone interested in:<br>
 [Slightly Improved MQL5 calendar](https://samuelpapranec.github.io)    
 [Books I´m reading](https://samuelpapranec.github.io/compact-gallery#fluid-gallery) are updated every week(once per week). Can´t afford to pay an author for a book? Just click and thank libgen. 
