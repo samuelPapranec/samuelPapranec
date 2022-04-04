@@ -1,4 +1,4 @@
-read in other languages: [english]() | [slovensky]() | [中文]() | [česky]() | [русски]() 
+read in other languages: [english](https://) | [slovensky](https://) | [中文](https://) | [spanish](https://) | [русски](https://) 
 <p align="center">
 
 # 𝖂𝖊𝖑𝖈𝖔𝖒𝖊, 𝕴'𝖒 𝕾𝖆𝖒𝖚𝖊𝖑 𝕻𝖆𝖕𝖗𝖆𝖓𝖊𝖈 𝖆𝔎𝖆 𝕾𝖔𝖚𝖗𝖉𝖊𝖊𝖟𝖆𝖑👋 
