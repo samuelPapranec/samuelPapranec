@@ -3,8 +3,10 @@ read in other languages: [english](https://) | [slovensky](https://) | [中文](
 
 # 𝖂𝖊𝖑𝖈𝖔𝖒𝖊, 𝕴'𝖒 𝕾𝖆𝖒𝖚𝖊𝖑 𝕻𝖆𝖕𝖗𝖆𝖓𝖊𝖈 𝖆𝔎𝖆 𝕾𝖔𝖚𝖗𝖉𝖊𝖊𝖟𝖆𝖑👋 
 𝕯𝖊𝕱𝖎 𝖘𝖙𝖚𝖉𝖊𝖓𝖙/𝖎𝖓𝖉𝖊𝖕𝖊𝖓𝖉𝖊𝖓𝖙 𝖏𝖔𝖚𝖗𝖓𝖆𝖑𝖎𝖘𝖙/𝖛𝖆𝖑𝖚𝖊 𝖎𝖓𝖛𝖊𝖘𝖙𝖔𝖗 𝖔𝖓 𝖆 𝖘𝖙𝖚𝖉𝖞𝖎𝖓𝖌 𝖒𝖆𝖗𝖆𝖙𝖍𝖔𝖓.  <br>
-# 𝖜𝖍𝖆𝖙 𝖆𝖜𝖆𝖎𝖙𝖘 𝖚𝖘 - 𝖜𝖊 𝖆𝖗𝖊 𝖜𝖆𝖙𝖈𝖍𝖎𝖓𝖌 𝖙𝖍𝖎𝖘 𝖜𝖊𝖊𝕶<br></p>
+# ♕ 𝖜𝖍𝖆𝖙 𝖆𝖜𝖆𝖎𝖙𝖘 𝖚𝖘 - 𝖜𝖊 𝖆𝖗𝖊 𝖜𝖆𝖙𝖈𝖍𝖎𝖓𝖌 𝖙𝖍𝖎𝖘 𝖜𝖊𝖊𝕶<br></p>
  ![14. kalendárny týždeň](https://scontent.fbts10-1.fna.fbcdn.net/v/t1.15752-9/277832575_507861827495670_6879539929491318453_n.png?_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_ohc=ghg153Un4pwAX-oJFBK&_nc_ht=scontent.fbts10-1.fna&oh=03_AVJXR05bkC8--6ftKoBWm-82glnucD_QffUqxw_JWQqTBw&oe=6270C409)
+ <br>
+ # ♕ 
 content for anyone interested in:<br>
 [Slightly Improved MQL5 calendar](https://samuelpapranec.github.io)    
 [Books I´m reading](https://samuelpapranec.github.io/compact-gallery#fluid-gallery) are updated every week(once per week). Can´t afford to pay an author for a book? Just click and thank libgen. 
