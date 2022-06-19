@@ -4,7 +4,7 @@ read in other languages: [english](https://) | [slovensky](https://) | [中文](
 # 𝖂𝖊𝖑𝖈𝖔𝖒𝖊, 𝕴'𝖒 𝕾𝖆𝖒𝖚𝖊𝖑 𝕻𝖆𝖕𝖗𝖆𝖓𝖊𝖈 𝖆𝔎𝖆 𝕾𝖔𝖚𝖗𝖉𝖊𝖊𝖟𝖆𝖑👋 
 𝕯𝖊𝕱𝖎 𝖘𝖙𝖚𝖉𝖊𝖓𝖙/𝖎𝖓𝖉𝖊𝖕𝖊𝖓𝖉𝖊𝖓𝖙 𝖏𝖔𝖚𝖗𝖓𝖆𝖑𝖎𝖘𝖙/𝖛𝖆𝖑𝖚𝖊 𝖎𝖓𝖛𝖊𝖘𝖙𝖔𝖗 𝖔𝖓 𝖆 𝖘𝖙𝖚𝖉𝖞𝖎𝖓𝖌 𝖒𝖆𝖗𝖆𝖙𝖍𝖔𝖓.  <br>
 # ♕ 𝖜𝖍𝖆𝖙 𝖆𝖜𝖆𝖎𝖙𝖘 𝖚𝖘 - 𝖜𝖊 𝖆𝖗𝖊 𝖜𝖆𝖙𝖈𝖍𝖎𝖓𝖌 𝖙𝖍𝖎𝖘 𝖜𝖊𝖊𝕶<br></p>
- ![25. kalendárny týždeň](https://www.facebook.com/messenger_media?thread_id=4071336156261510&attachment_id=356182833123832&message_id=mid.%24gAA5229Fa7IaHrIin52BetWAFshfQ)
+ ![25. kalendárny týždeň](https://scontent-frt3-1.xx.fbcdn.net/v/t1.15752-9/289048318_356182839790498_8719192773696821607_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=OwZCtjToERcAX87GWMC&_nc_ht=scontent-frt3-1.xx&oh=03_AVJn4bvwn6rdar9EPjMeVwQpG6u_LUmB-8yZcZJmv11SqA&oe=62D2F081)
  <br>
  # ♕ 
 content for anyone interested in:<br>
