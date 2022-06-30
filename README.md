@@ -10,4 +10,4 @@ read in other languages: [english(•)](https://github.com/samuelPapranec/samuel
 
 # ♕ 𝖜𝖍𝖆𝖙 𝖆𝖜𝖆𝖎𝖙𝖘 𝖚𝖘
 
-[23. kalendárny týždeň](https://github.com/samuelPapranec/citadela_alpha/blob/main/weekly_event_calendars/econ_cal23.png)
+![23. kalendárny týždeň](https://github.com/samuelPapranec/citadela_alpha/blob/main/weekly_event_calendars/econ_cal23.png)
