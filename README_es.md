@@ -1,5 +1,5 @@
-read in other languages: [english(•)](https://github.com/samuelPapranec/samuelPapranec/README.md/) | [slovensky](https://github.com/samuelPapranec/samuelPapranec/README_sk.md/) | [中文](https://github.com/samuelPapranec/samuelPapranec/README_cn.md/) | [spanish](https://github.com/samuelPapranec/samuelPapranec/README_es.md/) | [русски](https://github.com/samuelPapranec/samuelPapranec/README_ru.md/) 
-<p align="center">
+read in other languages: [english](https://github.com/samuelPapranec/samuelPapranec/README.md/) | [slovensky](https://github.com/samuelPapranec/samuelPapranec/README_sk.md/) | [中文](https://github.com/samuelPapranec/samuelPapranec/README_cn.md/) | [spanish(•)](https://github.com/samuelPapranec/samuelPapranec/README_es.md/) | [русски](https://github.com/samuelPapranec/samuelPapranec/README_ru.md/) 
+<p align=“center”>
 I practice bullishness on education  +  freedom maximalism.
 </p>
   <br>
