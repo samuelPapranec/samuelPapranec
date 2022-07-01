@@ -1,4 +1,4 @@
-read in other languages: [english(•)](https://github.com/samuelPapranec/samuelPapranec/blob/main/README.md/) | [slovensky](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_sk.md/) | [中文](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_cn.md/) | [spanish](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_es.md/) | [русски](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_ru.md/) 
+[(•)english](https://github.com/samuelPapranec/samuelPapranec/blob/main/README.md/) | [slovensky](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_sk.md/) | [中文](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_cn.md/) | [spanish](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_es.md/) | [русски](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_ru.md/) 
 <br>
 # ♕ index
 
