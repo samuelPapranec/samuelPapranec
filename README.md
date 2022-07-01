@@ -1,6 +1,6 @@
-[(•)english](https://github.com/samuelPapranec/samuelPapranec/blob/main/README.md/) | [slovensky](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_sk.md/) | [中文](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_cn.md/) | [spanish](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_es.md/) | [русски](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_ru.md/) 
+[e͟n͟gl͟i͟s͟h͟](https://github.com/samuelPapranec/samuelPapranec/blob/main/README.md/) | [slovensky](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_sk.md/) | [中文](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_cn.md/) | [spanish](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_es.md/) | [русски](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_ru.md/) 
 <br>
-# ♕ index
+# ♕ 𝖎𝖓𝖉𝖊𝖝
 
 [• code](https://github.com/samuelPapranec/code)
 
