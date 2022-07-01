@@ -4,7 +4,7 @@
 
 [• code](https://github.com/samuelPapranec/code)
 
- [• decentralized workspace citadela.eth](https://github.com/samuelPapranec/citadela_alpha)
+ [• decentralized workspace citadela.xmr](https://github.com/samuelPapranec/citadela_alpha)
 
 <br>
 
