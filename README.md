@@ -10,4 +10,4 @@
 
 # ♕ 𝖜𝖍𝖆𝖙 𝖆𝖜𝖆𝖎𝖙𝖘 𝖚𝖘
 
-![23. kalendárny týždeň](https://github.com/samuelPapranec/citadela_alpha/blob/main/weekly_event_calendars/econ_cal23.png)
+![https://github.com/samuelPapranec/citadela_alpha/blob/main/weekly_event_calendars/ekonkal24.png](https://github.com/samuelPapranec/citadela_alpha/blob/main/weekly_event_calendars/ekonkal24.png)
