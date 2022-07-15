@@ -6,7 +6,7 @@
 `⚠️ Celsius negotiates Chapter 7 bankruptcy with creditors.` <15/07/22//08:54>
 <br>
 <br>
-```[...](https://github.com/samuelPapranec/citadela_alpha/blob/main/)```
+```[(https://github.com/samuelPapranec/citadela_alpha/blob/main/)](...)```
 # ♕ 𝖜𝖍𝖆𝖙 𝖆𝖜𝖆𝖎𝖙𝖘 𝖚𝖘
 <img src="https://github.com/samuelPapranec/citadela_alpha/blob/main/weekly_event_calendars/econcal25.png" alt="drawing" width="400"/>
 ![https://github.com/samuelPapranec/citadela_alpha/blob/main/weekly_event_calendars/econcal25.png](https://github.com/samuelPapranec/citadela_alpha/blob/main/weekly_event_calendars/econcal25.png)
