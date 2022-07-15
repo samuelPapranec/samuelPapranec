@@ -1,7 +1,7 @@
 [e͟n͟gl͟i͟s͟h͟](https://github.com/samuelPapranec/samuelPapranec/blob/main/README.md/) | slovensky | 中文 | spanish | русски 
 <br>
 # ♕ 𝖋𝖊𝖊𝖉
-`<15/07/22//10:59>⚠️ Macron Announces Street Lights Will Be Turned Off In Response To Energy Crisis.` 
+`<15/07/22//19:11>⚠️ Macron Announces Street Lights Will Be Turned Off In Response To Energy Crisis.` 
 <br>
 <br>
 `<15/07/22//10:59>⚠️ Igor Mazilin, INGVARR: Given the arrival of an increasing number of Chinese investors in Russia, the demand for Asian lawyers, as well as Chinese and Hong Kong law, will grow.` 
