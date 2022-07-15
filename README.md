@@ -1,5 +1,6 @@
-![e͟n͟gl͟i͟s͟h͟](https://github.com/samuelPapranec/samuelPapranec/blob/main/README.md/) | [slovensky](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_sk.md/) | [中文](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_cn.md/) | [spanish](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_es.md/) | [русски](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_ru.md/) 
+[e͟n͟gl͟i͟s͟h͟](https://github.com/samuelPapranec/samuelPapranec/blob/main/README.md/) | [slovensky](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_sk.md/) | [中文](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_cn.md/) | [spanish](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_es.md/) | [русски](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_ru.md/) 
 <br>
+`⚠️ Nigeria is furthering the global dedolarization trend - dollar ban spurs Danone, Arla to invest in Nigeria cattle farms`
 # ♕ 𝖎𝖓𝖉𝖊𝖝
 
 [• code](https://github.com/samuelPapranec/code)
