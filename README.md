@@ -7,5 +7,5 @@
 <br>
 
 # ♕ 𝖜𝖍𝖆𝖙 𝖆𝖜𝖆𝖎𝖙𝖘 𝖚𝖘
-
+<img src="https://github.com/samuelPapranec/citadela_alpha/blob/main/weekly_event_calendars/econcal25.png" alt="drawing" width="400"/>
 ![https://github.com/samuelPapranec/citadela_alpha/blob/main/weekly_event_calendars/econcal25.png](https://github.com/samuelPapranec/citadela_alpha/blob/main/weekly_event_calendars/econcal25.png)
