@@ -1,7 +1,8 @@
-[e͟n͟gl͟i͟s͟h͟](https://github.com/samuelPapranec/samuelPapranec/blob/main/README.md/) | [slovensky](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_sk.md/) | [中文](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_cn.md/) | [spanish](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_es.md/) | [русски](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_ru.md/) 
+[e͟n͟gl͟i͟s͟h͟](https://github.com/samuelPapranec/samuelPapranec/blob/main/README.md/) | [slovensky]((https://github.com/samuelPapranec/samuelPapranec/blob/main/README_sk.md/) | [中文]((https://github.com/samuelPapranec/samuelPapranec/blob/main/README_cn.md/) | [spanish]((https://github.com/samuelPapranec/samuelPapranec/blob/main/README_es.md/) | [русски]((https://github.com/samuelPapranec/samuelPapranec/blob/main/README_ru.md/) 
 <br>
 # ♕ 𝖋𝖊𝖊𝖉
 `<15/07/22//10:59>⚠️ Igor Mazilin, INGVARR: Given the arrival of an increasing number of Chinese investors in Russia, the demand for Asian lawyers, as well as Chinese and Hong Kong law, will grow.` 
+<br>
 <br>
 `<15/07/22//08:51>⚠️ Nigeria is furthering the global dedolarization trend - dollar ban spurs Danone, Arla to invest in Nigeria cattle farms.` 
 <br>
