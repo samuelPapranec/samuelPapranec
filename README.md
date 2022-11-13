@@ -2,7 +2,7 @@
 
 8 years working with computer networking, mechatronics & programming.
 
-
+Corporation experiences: Saargummi Automotive Slovakia, Tesla Gigafactory Brandenburg.
 
 
 
