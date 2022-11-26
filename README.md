@@ -1,8 +1,8 @@
-english | slovensky | 中文 | русски | česky | polski | deutsch  
+10| English, Slovensky, 中文, Pусски, Česky, Polski, Deutsch  
 
-8 years working with computer networking, mechatronics & programming.
+20| 8 years of working with computer networking, mechatronics & programming.
 
-Corporate experience: Saargummi Automotive Slovakia(2015-2020), Tesla Gigafactory Brandenburg(2022-active).
+30| Corporate experience: Saargummi Automotive Slovakia(2014-2020), Tesla Gigafactory Berlin(2022+).
 
 
 
