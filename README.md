@@ -4,6 +4,6 @@
 
 30 | Corporate experiences: 
 * Saargummi Automotive Slovakia(2014-2020),   as Maintenance Technician
-* Tesla Gigafactory Berlin(2022+).  under Constructor Contract
+* Tesla Gigafactory Berlin(2022+).  under contract as Constructor
 
 40 | love chess, books, yoga
