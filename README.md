@@ -1,9 +1,11 @@
-10 | English, Slovensky, 中文, Pусски, Česky, Polski, Deutsch  
+10 | Spoken languages:
+* English, Slovensky, 中文, Pусски, Česky, Polski, Deutsch  
 
-20 | 8 years of work with computer networking, mechatronics. Practical experience with hardware, software and programming, plus education equivalent to Masters degree in Economics; Computer Science.
+20 | About: 
+* 8 years of work with computer networking, mechatronics. Practical experience with hardware, software and programming, plus education equivalent to Masters degree in Economics; Computer Science.
 
 30 | Corporate experiences: 
 * Saargummi Automotive Slovakia(2014-2020),   as Maintenance Technician
-* Tesla Gigafactory Berlin(2022+).  under contract as Constructor
+* Tesla Gigafactory Berlin(2022+),  under contract as Constructor
 
-40 | love chess, books, yoga
+40 |  chess, books, yoga
