@@ -4,11 +4,11 @@ read in other languages: [english(•)](https://github.com/samuelPapranec/samuel
      | Spoken languages:
 * English, Slovensky, Pусски, Polski, Deutsch 
 
-   | About: 
+     | About: 
 * 8 years of work with computer networking, mechatronics. Practical experience with a range of hardware, software and programming stacks.
 
-   | Corporate experiences: 
+     | Corporate experiences: 
 * Saargummi Automotive Slovakia(2014-2020),  as Maintenance Technician
 * Tesla Gigafactory Berlin(2022+),  under contract as Constructor
 
-   |  chess, travel
+     |  chess, travel
