@@ -1,3 +1,6 @@
+read in other languages: [english(•)](https://github.com/samuelPapranec/samuelPapranec/blob/main/README.md/) | [slovensky](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_sk.md/) | [中文](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_cn.md/) | [deutsch](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_cn.md/) | [spanish](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_cn.md/) | [русски](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_ru.md/) 
+<p align=“center”>
+
 10 | Spoken languages:
 * English, Slovensky, Pусски, Polski, Deutsch 
 
