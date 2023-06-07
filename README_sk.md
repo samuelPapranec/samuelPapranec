@@ -1,4 +1,6 @@
-read in other languages: [english(•)](https://github.com/samuelPapranec/samuelPapranec/blob/main/README.md/) | [slovensky](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_sk.md/) | [中文](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_cn.md/) | [spanish](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_es.md/) | [русски](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_ru.md/) 
+read in other languages: [english(•)](https://github.com/samuelPapranec/samuelPapranec/blob/main/README.md/) | [slovensky](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_sk.md/) | [中文](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_cn.md/) | [spanish]
+(https://github.com/samuelPapranec/samuelPapranec/blob/main/README_ge.md/) | [deutsch]
+(https://github.com/samuelPapranec/samuelPapranec/blob/main/README_es.md/) | [русски](https://github.com/samuelPapranec/samuelPapranec/blob/main/README_ru.md/) 
 <p align=“center”>
 I practice bullishness on education  +  freedom maximalism.
 </p>
